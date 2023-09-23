@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+form {
+  max-width: 500px;
+  width: 100%;
+  margin: 0 auto;
+  height: 100vh;
+  padding: 10px;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #0000cc;
+}
+
+h1 {
+  padding: 100px 0 50px 0;
+  text-align: center;
+  color: #fff;
+}
+
+input {
+  display: block;
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 10px 0 10px 5px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 25px;
+  font-weight: bold;
+  color: #fff;
+  padding: 20px 0;
+}
